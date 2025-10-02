@@ -1,5 +1,5 @@
 fastapi
-uvicorn
+uvicorn[standard]
 sqlalchemy
 pydantic
 python-dotenv
@@ -7,3 +7,5 @@ PyJWT
 bcrypt
 cryptography
 pymongo
+websockets
+python-multipart
